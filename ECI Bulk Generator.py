@@ -729,4 +729,4 @@ class BulkECIApp:
         )
 
 if __name__ == "__main__":
-    BulkECIApp()
+    BulkECIApp() # just for sample changes lang po
