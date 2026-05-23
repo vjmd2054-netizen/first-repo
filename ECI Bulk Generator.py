@@ -729,4 +729,4 @@ class BulkECIApp:
         )
 
 if __name__ == "__main__":
-    BulkECIApp() # just for sample changes lang po
+    BulkECIApp() # Update only on the ECI Bulk Generator.py May 23, 2026
