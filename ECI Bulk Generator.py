@@ -1,5 +1,3 @@
-# "Update only on the ECI Bulk Generator.py
-
 import threading
 import tkinter
 from tkinter import ttk, messagebox
